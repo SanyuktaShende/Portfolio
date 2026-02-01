@@ -35,9 +35,11 @@ Currently focused on building scalable automation frameworks. Contributing where
 - UI + backend validation
 - Selenium / Playwright automation
 
-### 🔹 Accessibility Automation Project
-- WCAG validation using axe-core
-- Selenium / Playwright based checks
+### 🔹 Contact list app
+- Selenium based checks
+- Used Automation frameworks
+- Used POM for separating UI logic from test logic
+- Did CI/CD integration to automate faster
 
 ---
 
