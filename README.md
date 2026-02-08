@@ -9,8 +9,8 @@ Currently focused on building scalable automation frameworks. Contributing where
 
 ## 💼 Experience
 - Quality Analyst at Hexaware Technologies
-- Automation testing using Selenium, Playwright
-- API testing with Postman
+- Automation testing using Selenium, TestNG
+- Continuous integration and deployment with Github actions  
 - Agile & Scrum environment
 
 ---
