@@ -46,7 +46,7 @@ Currently focused on building scalable automation frameworks. Contributing where
 The Contact List application allows users to securely log in, manage contacts, and add new contact details through a simple web interface. This project focuses on validating core user flows such as authentication, contact creation, and data visibility using manual and automated testing approaches to ensure functional reliability and a smooth user experience.  
 - 📂 Documentation for Contact list app
 - [Test Plan](https://www.figma.com/design/xFwdVGGMOpQUKNtuFYe0WZ/ContactListQA?node-id=0-1&t=VBjrSS2IYqXvYccu-1)    
-- Requirement tracability matrix  
+- [Requirement tracability matrix ]([url](https://docs.google.com/spreadsheets/d/1P25BJpEiposvE7LTZ0RbcRyJGkumXOtOalNW8hlr2Jo/edit?usp=sharing))   
 - Test Cases
 - Bug Reports
 - Automation Scripts
