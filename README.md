@@ -47,7 +47,7 @@ The Contact List application allows users to securely log in, manage contacts, a
 - 📂 Documentation for Contact list app
 - [Test Plan](https://www.figma.com/design/xFwdVGGMOpQUKNtuFYe0WZ/ContactListQA?node-id=0-1&t=VBjrSS2IYqXvYccu-1)    
 - [Requirement tracability matrix](https://docs.google.com/spreadsheets/d/1P25BJpEiposvE7LTZ0RbcRyJGkumXOtOalNW8hlr2Jo/edit?usp=sharing)  
-- Test Cases
+- [Test Cases](https://docs.google.com/spreadsheets/d/1P25BJpEiposvE7LTZ0RbcRyJGkumXOtOalNW8hlr2Jo/edit?usp=sharing)  
 - Bug Reports
 - Automation Scripts
 
