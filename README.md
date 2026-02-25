@@ -51,9 +51,39 @@ The Contact List application allows users to securely log in, manage contacts, a
 - Test Execution Report (docs/test-report/index.html)  
 - Bug Reports -Jira
   The following defects were logged and tracked in Jira during testing:  
-  ### SCRUM-5 — Invalid login handling (docs/bugs/IncorrectCred.png)  
-  ### SCRUM-5 — Duplicate email handling (docs/bugs/DuplicateEmail.png)  
-- Automation Scripts
+  SCRUM-5 — Invalid login handling (docs/bugs/IncorrectCred.png)  
+  SCRUM-5 — Duplicate email handling (docs/bugs/DuplicateEmail.png)  
+- Automation Scripts  
+  1) Framework Srtucture  
+ 
+     src/test/java  
+ ├── base  
+ │    └── BaseTest.java  
+ ├── pages  
+ │    ├── LoginPage.java  
+ │    ├── ContactPage.java  
+ │    └── Signup.java  
+ ├── tests  
+ │    ├── ContactFlowTest.java  
+ └── utils  
+      └── DriverFactory.java  
+     
+2) Automated Test Scenarios  
+a) Valid login with registered user  
+b) Invalid login validation (error handling)  
+c) Add new contact with valid details  
+d) Duplicate email validation while adding contact  
+e) Contact list display verification  
+
+3) Tools & Technologies  
+- Selenium WebDriver  
+- Java  
+- TestNG  
+- Maven  
+- Page Object Model (POM)  
+- TestNG Reports  
+  
+
 
 ---
 
