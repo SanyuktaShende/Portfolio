@@ -51,14 +51,14 @@ The Contact List application allows users to securely log in, manage contacts, a
    
 - [Test Cases](https://docs.google.com/spreadsheets/d/1P25BJpEiposvE7LTZ0RbcRyJGkumXOtOalNW8hlr2Jo/edit?usp=sharing)
   
-- Test Execution Report (docs/test-report/index.html)
+- <u>Test Execution Report</u> (docs/test-report/index.html)
 
-- Bug Reports -Jira
+- <u>Bug Reports -Jira</u>
   The following defects were logged and tracked in Jira during testing:  
   SCRUM-5 — Invalid login handling (docs/bugs/IncorrectCred.png)  
   SCRUM-5 — Duplicate email handling (docs/bugs/DuplicateEmail.png)
     
-- Automation Scripts  
+- <u>Automation Scripts </u> 
 1) Framework Srtucture  
  
      src/test/java  
