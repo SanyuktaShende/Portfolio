@@ -45,16 +45,21 @@ Currently focused on building scalable automation frameworks. Contributing where
 ### 🔹[ Contact list app](https://github.com/SanyuktaShende/selenium_automate):    
 The Contact List application allows users to securely log in, manage contacts, and add new contact details through a simple web interface. This project focuses on validating core user flows such as authentication, contact creation, and data visibility using manual and automated testing approaches to ensure functional reliability and a smooth user experience.  
 - 📂 Documentation for Contact list app
-- [Test Plan](https://www.figma.com/design/xFwdVGGMOpQUKNtuFYe0WZ/ContactListQA?node-id=0-1&t=VBjrSS2IYqXvYccu-1)    
-- [Requirement tracability matrix](https://docs.google.com/spreadsheets/d/1P25BJpEiposvE7LTZ0RbcRyJGkumXOtOalNW8hlr2Jo/edit?usp=sharing)  
+- [Test Plan](https://www.figma.com/design/xFwdVGGMOpQUKNtuFYe0WZ/ContactListQA?node-id=0-1&t=VBjrSS2IYqXvYccu-1)
+   
+- [Requirement tracability matrix](https://docs.google.com/spreadsheets/d/1P25BJpEiposvE7LTZ0RbcRyJGkumXOtOalNW8hlr2Jo/edit?usp=sharing)
+   
 - [Test Cases](https://docs.google.com/spreadsheets/d/1P25BJpEiposvE7LTZ0RbcRyJGkumXOtOalNW8hlr2Jo/edit?usp=sharing)
-- Test Execution Report (docs/test-report/index.html)  
+  
+- Test Execution Report (docs/test-report/index.html)
+
 - Bug Reports -Jira
   The following defects were logged and tracked in Jira during testing:  
   SCRUM-5 — Invalid login handling (docs/bugs/IncorrectCred.png)  
-  SCRUM-5 — Duplicate email handling (docs/bugs/DuplicateEmail.png)  
+  SCRUM-5 — Duplicate email handling (docs/bugs/DuplicateEmail.png)
+    
 - Automation Scripts  
-  1) Framework Srtucture  
+1) Framework Srtucture  
  
      src/test/java  
  ├── base  
@@ -73,15 +78,7 @@ a) Valid login with registered user
 b) Invalid login validation (error handling)  
 c) Add new contact with valid details  
 d) Duplicate email validation while adding contact  
-e) Contact list display verification  
-
-3) Tools & Technologies  
-- Selenium WebDriver  
-- Java  
-- TestNG  
-- Maven  
-- Page Object Model (POM)  
-- TestNG Reports  
+e) Contact list display verification 
   
 
 
