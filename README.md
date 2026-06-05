@@ -23,7 +23,7 @@ Currently focused on building scalable automation frameworks. Contributing where
 
 ## 🛠 Tools & Technologies
 - Selenium WebDriver
-- Playwright (basic)  
+- Playwright  
 - Java, TypeScript
 - Postman
 - TestNG
